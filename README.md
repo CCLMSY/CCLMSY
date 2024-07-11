@@ -20,5 +20,5 @@ Never forget nor regret.
 ## Link
 - Github: https://github.com/CCLMSY
 - Page: https://cclmsy.cc
-- CodeForces: (https://codeforces.com/profile/CC_Lmsy
+- CodeForces: https://codeforces.com/profile/CC_Lmsy
 - [Bilibili](https://space.bilibili.com/1726583008)/[QQ](https://res.abeim.cn/api-qq?qq=2502408581)/[Email](mailto:2502408581@qq.com)
