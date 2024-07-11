@@ -33,11 +33,11 @@ Never forget nor regret.
 <p align="center">
   
   <br/>
-  <a href="https://github.com/RF-Tar-Railt">
-    <img width="400" align="top" src="https://github.com/RF-Tar-Railt/RF-Tar-Railt/blob/main/left.svg" />
+  <a href="https://github.com/CCLMSY">
+    <img width="400" align="top" src="https://github.com/CCLMSY/CCLMSY/blob/main/left.svg" />
   </a>
   &emsp;
   <a href="https://github.com/RF-Tar-Railt">
-    <img width="400" align="top" src="https://github.com/RF-Tar-Railt/RF-Tar-Railt/blob/main/right.svg" />
+    <img width="400" align="top" src="https://github.com/CCLMSY/CCLMSY/blob/main/right.svg" />
   </a>
 </p>
