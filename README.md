@@ -7,7 +7,7 @@ Never forget nor regret.
 
 ## About me 
 - 坐标: 宁波/杭州
-- 编程语言: Python/C/C++
+- 编程语言: C/C++/Python
 - 就读情况: 浙江省某双非商专 本科22届 计算机科学与技术专业
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CCLMSY&show_icons=true&theme=dracula&hide_border=true">
@@ -31,13 +31,12 @@ Never forget nor regret.
 
 ## Statistic
 <p align="center">
-  
   <br/>
   <a href="https://github.com/CCLMSY">
     <img width="400" align="top" src="https://github.com/CCLMSY/CCLMSY/blob/main/left.svg" />
   </a>
   &emsp;
-  <a href="https://github.com/RF-Tar-Railt">
+  <a href="https://github.com/CCLMSY">
     <img width="400" align="top" src="https://github.com/CCLMSY/CCLMSY/blob/main/right.svg" />
   </a>
 </p>
