@@ -30,3 +30,14 @@ Never forget nor regret.
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CCLMSY&layout=compact&theme=dracula&hide_border=true">
 
 ## Statistic
+<p align="center">
+  
+  <br/>
+  <a href="https://github.com/RF-Tar-Railt">
+    <img width="400" align="top" src="https://github.com/RF-Tar-Railt/RF-Tar-Railt/blob/main/left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/RF-Tar-Railt">
+    <img width="400" align="top" src="https://github.com/RF-Tar-Railt/RF-Tar-Railt/blob/main/right.svg" />
+  </a>
+</p>
