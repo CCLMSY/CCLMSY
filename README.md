@@ -12,7 +12,13 @@ Never forget nor regret.
 
 ## Algorithm competition resume
 - 0基础入坑算法竞赛 现役ACMer
-- [CodeForces](https://codeforces.com/profile/CC_Lmsy) Rating 1700+
+- https://codeforces.com/profile/CC_Lmsy Rating 1700+
 - 2023.11 国际大学生程序设计竞赛(ICPC)区域赛（合肥） 铁牌
 - 2024.4 浙江省大学生程序设计竞赛(ZJCPC) 铜牌
 - 2024.5 国际大学生程序设计竞赛(ICPC)全国邀请赛（昆明） 铜牌
+
+## Link
+- Github: https://github.com/CCLMSY
+- Page: https://cclmsy.cc
+- CodeForces: https://codeforces.com/profile/CC_Lmsy
+- QQ: https://res.abeim.cn/api-qq?qq=2502408581
