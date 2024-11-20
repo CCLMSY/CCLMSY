@@ -18,6 +18,7 @@ Never forget nor regret.
 - 2023.11 国际大学生程序设计竞赛(ICPC)区域赛（合肥） 铁牌
 - 2024.4 浙江省大学生程序设计竞赛(ZJCPC) 铜牌
 - 2024.5 国际大学生程序设计竞赛(ICPC)全国邀请赛（昆明） 铜牌
+- 2024.11 国际大学生程序设计竞赛(ICPC)区域赛（南京） 铜牌
 
 ## Links
 - Github: https://github.com/CCLMSY
