@@ -27,9 +27,9 @@ Never forget nor regret.⭐
 - [Bilibili](https://space.bilibili.com/1726583008)/[QQ](https://res.abeim.cn/api-qq?qq=2502408581)/[Email](mailto:2502408581@qq.com)
 
 ## Coding Time/Language (Since 2024.7.11)
-[![wakatime_details](https://github-readme-stats.vercel.app/api/wakatime?username=CCLMSY&layout=compact&theme=dracula&hide_border=true)](https://wakatime.com/@a4efd012-07bd-477e-b7d6-2f13082b0b8f)
-
 ![](https://wakatime.com/share/@CCLMSY/37f14be2-ba07-4bd7-b57f-9c17822e68c3.svg)
+
+[![wakatime_details](https://github-readme-stats.vercel.app/api/wakatime?username=CCLMSY&layout=compact&theme=dracula&hide_border=true)](https://wakatime.com/@a4efd012-07bd-477e-b7d6-2f13082b0b8f)
 
 ## Statistic
 <p align="center">
