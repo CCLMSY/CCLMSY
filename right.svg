@@ -239,7 +239,7 @@ If you have specific data or evidence indicating unnatural activity, I’d be ha
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 746k out of 241m repositories</span>
+                                    <span class="gh">ranked 746k out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 44 stars</div>
                             </div>
@@ -285,7 +285,7 @@ If you have specific data or evidence indicating unnatural activity, I’d be ha
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.35m out of 241m repositories</span>
+                                    <span class="gh">ranked 2.35m out of 238m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -539,7 +539,7 @@ If you have specific data or evidence indicating unnatural activity, I’d be ha
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2025, 02:14:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Apr 2025, 08:50:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
