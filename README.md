@@ -8,13 +8,13 @@ Never forget nor regret.⭐
 ## About me 
 - 坐标: 宁波/杭州
 - 编程语言: C/C++/Python/JavaScript
-- 就读情况: 浙江省某双非商专 本科22届 计算机科学与技术专业
-- 兴趣方向：大模型相关方向（多模态大模型）、C/C++/Python开发
+- 本科: 浙江省某双非商专 本科22届 计算机科学与技术专业
+- 硕士: 北京航空航天大学 软件工程26研
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CCLMSY&show_icons=true&theme=dracula&hide_border=true">
 
 ## Algorithm competition resume
-- 0语言基础入坑算法竞赛 ACMer 即将退役
+- 0语言基础入坑算法竞赛 退役ACMer
 - [Codeforces Rating 1900+](https://codeforces.com/profile/CC_Lmsy)
 - 2024.4 第21届 浙江省大学生程序设计竞赛(ZJCPC) 铜牌
 - 2024.5 2024年 国际大学生程序设计竞赛(ICPC)全国邀请赛（昆明） 铜牌
